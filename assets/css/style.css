@@ -3,10 +3,12 @@
     padding: 0;
     margin: 0;
 }
+
 /*Making Background Color Blue*/
 body {
     background-color: #d9dcd6;
 }
+
 /*Header size, font and color*/
 .header {
     padding: 20px;
@@ -14,16 +16,19 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /*h1 Display and font size*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*SEO white*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Defining header box*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +37,29 @@ body {
     font-size: 20px;
 }
 
+/*header list style*/
 .header div ul {
     list-style-type: none;
 }
 
+/*List Text alignment*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*Link Color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Paragraph font size*/
 p {
     font-size: 16px;
 }
 
+/*Horiseon image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +69,26 @@ p {
     background-position: center;
 }
 
+/*Search Engine optimization text position*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Online reputation management text position*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*content alignment*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Defining benefits box*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +100,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Defining lead generation box*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
