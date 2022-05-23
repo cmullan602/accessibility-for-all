@@ -12,8 +12,9 @@
 
 ### Finished Website
 
-![Finished Website](/assets/images/finished-website.png)
+[Finished Website](/assets/images/finished-website.png)
 
 #### Website Link 
+[Link to finished website](https://cmullan602.github.io/accessibility-for-all/#social-media-marketing)
 
 
