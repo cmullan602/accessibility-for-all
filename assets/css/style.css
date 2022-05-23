@@ -135,11 +135,13 @@ p {
     max-height: 200px;
 }
 
+/*Services Header*/
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*This is a footer*/
 .footer {
     padding: 30px;
     clear: both;
