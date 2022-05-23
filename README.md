@@ -10,5 +10,10 @@
 
 - Throughout this project I learned the importance of semantic HTML in terms of accesibility. I also learned how to be more efficient when writing code. 
 
-### Screenshot
+### Finished Website
+
+![Finished Website](/assets/images/finished-website.png)
+
+#### Website Link 
+
 
